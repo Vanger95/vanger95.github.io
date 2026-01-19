@@ -10,7 +10,7 @@ Full-Stack .NET Engineer | MSc Data Science | Machine Learning &amp; Data Engine
   https://github.com/Vanger95
 
 - 📄 Download CV:
-- [Vinura_Wathmal_Resume.pdf](https://github.com/user-attachments/files/24724774/Vinura_Wathmal_Resume.pdf)
+  [Vinura_Wathmal_Resume.pdf](https://github.com/user-attachments/files/24724774/Vinura_Wathmal_Resume.pdf)
 
 
 ## 🧠 About Me
